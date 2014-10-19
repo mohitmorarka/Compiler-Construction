@@ -1,6 +1,12 @@
 Compiler-Construction
 =====================
 
+Worked on the creation of control flow graphs and conducted the dominator analysis to identify loops in the cfg.
+
+Worked on Basic Block profiling, Edge Profiling and Loop Iterations count. 
+
+Languages used: C and Intermediate representation(IR) language
+
 Here is the first part of the project. To compile type
 make
 
